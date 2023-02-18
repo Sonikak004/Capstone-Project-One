@@ -1,8 +1,6 @@
-
 <a name="readme-top"></a>
-<div align="center">
 
-</div>
+<h1>First Capstone Project</h1>
 
 # 📗 Table of Contents
 
@@ -15,74 +13,118 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Protofilio <a name="about-project"></a>
-**Protofilio** everything you want to know about me!
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Capstone-Project <a name="about-project"></a>
 
 
 ## 🛠 Built With <a name="built-with"></a>
-### Key Features <a name="key-features"></a>
-- **used linters**
-- **mobile version**
-- **Desktop version**
-- - **Responsiveness**
+    HTML
+    CSS
+    Bootstrap
+    Javascript
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-you can see my profile through this link: https://sonikak004.github.io/
+
+[Live Demo](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Project Video -->
+
+## 🚀 Project Video <a name="live-demo"></a>
+
+[Project Video](#)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-you can know me from here...
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Setup
 
-## 👥 Authors <a name="authors"></a>
+Clone this repository to your desired folder:
 
-👤 **sonika kumar**
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone https://github.com/Sonikak004/Capstone-Project-One.git
+
+- Go to the repository folder using command prompt cd.
+
+- Install the dev dependencies for linters run npm install.
+--->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Author -->
+
+👤 **Sonika Kumar**
 
 - GitHub: [sonikak004](https://github.com/sonikak004)
-- Twitter: [@sonikakumar](https://twitter.com/sonikakumar
-- LinkedIn: [LinkedIn](https://linkedin.com/in/sonikak004/)
+- Twitter: [@sonikak004](https://twitter.com/sonikak004)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sonikak004/)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Improve page elements**
-- [ ] **will improve styles and add more pages**
-- [ ] **will add Java script**
+- Use javascrpit to make the website more interactive
+
+- Add more pages for more contents
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Sonikak004/Capstone-Project-One/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give me star!
+⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse for giving me this oppurtunity
+[Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the Amazing Design Template.
+
+[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ <a name="faq"></a>
+
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
