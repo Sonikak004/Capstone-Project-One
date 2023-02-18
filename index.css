@@ -253,26 +253,6 @@ li p {
 
 /* featured speaker more button for mobile */
 
-#guest3 {
-    display: none;
-}
-
-#guest4 {
-    display: none;
-}
-
-#guest5 {
-    display: none;
-}
-
-#guest6 {
-    display: none;
-}
-
-#guest7 {
-    display: none;
-}
-
 footer {
     display: none;
 }
@@ -302,7 +282,7 @@ footer {
 }
 
 .gu6 img {
-    width: 234px !important;
+    width: 248px !important;
 }
 
 .guest img {
@@ -317,8 +297,29 @@ footer {
     margin-left: 14px;
 }
 
-#guest1 {
-    margin-top: 10px;
+.guest img:hover, .guest img:active {
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 20%);
+}
+
+
+#guest3 { 
+    display: none;
+}
+
+#guest4 {
+    display: none;
+}
+
+#guest4 {
+    display: none;
+}
+
+#guest5 {
+    display: none;
+}
+
+#guest6 {
+    display: none;
 }
 
 .guest {
@@ -369,6 +370,11 @@ footer {
 .loadm-btn:disabled {
     background-color: #fff;
     color: #1c1a19;
+}
+
+.fttxt-div{
+    margin-left: 10px;
+    margin-top: 20px;
 }
 
 @media screen and (min-width: 768px) {
@@ -574,7 +580,7 @@ header {
 }
 
 .p2 {
-    width: 60%;
+    width: 85%;
     font-size: 11px;
 }
     /* footer section for desktop only */
@@ -690,22 +696,6 @@ header {
  #more-btn {
     display: none;
  }
-
- #guest3 {
-    display: block;
-}
- 
- #guest4 {
-    display: block;
-}
- 
- #guest5 {
-    display: block;
-}
- 
- #guest6 {
-    display: block;
-}
 
 .bottom {
     display: flex;
