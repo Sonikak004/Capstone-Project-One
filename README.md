@@ -33,7 +33,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo](#)
+[Live Demo](https://sonikak004.github.io/sonika004.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,7 +41,7 @@
 
 ## 🚀 Project Video <a name="live-demo"></a>
 
-[Project Video](#)
+[Project Video](https://www.loom.com/share/7791e83c438541c99ca3d14dde741759)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
