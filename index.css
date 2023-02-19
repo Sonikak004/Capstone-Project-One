@@ -24,6 +24,10 @@ header {
   background-repeat: no-repeat;
 }
 
+.darknav {
+  display: none;
+}
+
 .mobile-div {
   display: none;
   position: absolute;
@@ -211,7 +215,7 @@ h4 {
   margin-right: 11px;
 }
 
-li p {
+article p {
   color: #fff;
   display: flex;
   width: 48%;
@@ -374,6 +378,23 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
+
+  .darknav {
+    display: flex;
+    background-color: #3e3e3e;
+  }
+
+  .darkcont {
+    width: 85%;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .darkcont a {
+    margin-left: 16px;
+    color: #fff;
+  }
+  
   .menuBar {
     display: none;
   }
@@ -389,7 +410,9 @@ footer {
 
   .desktop-items {
     display: flex;
+    height: 244px;
     list-style: none;
+    margin-right: 5%;
   }
 
   .sf-btn {
@@ -400,6 +423,10 @@ footer {
     font-family: 'lato', sans-serif;
     margin-top: -8px;
     color: #f38a7d;
+  }
+
+  .head-para {   
+    font-size: 35px;
   }
 
   .logo-div {
@@ -435,7 +462,6 @@ footer {
     font-size: 8px;
     position: relative;
     color: #353535;
-    top: -41px;
     width: 71px;
     right: -1px;
   }
@@ -445,12 +471,16 @@ footer {
   }
 
   .home-txt {
-    margin-top: 75px;
-    margin-left: 125px;
+    display: flex;
+    height: 479px;
+    margin-left: 20%;
+    flex-direction: column;
+    justify-content: center;
+
   }
 
   .nav {
-    color: #ababab;
+    color: #3e3e3e;
     font-size: 11px;
     margin-left: 60px;
   }
@@ -462,11 +492,11 @@ footer {
   .navl:hover,
   .navl:active {
     text-decoration: underline;
-    color: #353535;
+    color: #ee7263;
   }
 
   .sf-txt {
-    font-size: 64px;
+    font-size: 70px;
   }
 
   .ft-name {
@@ -484,7 +514,7 @@ footer {
   }
 
   header {
-    height: 481px;
+    height: 630px;
   }
 
   .goal-list {

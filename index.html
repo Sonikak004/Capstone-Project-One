@@ -11,9 +11,17 @@
 </head>
 <body>
     <header>
-
+        <div class="darknav">
+            <div class="darkcont">
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#">English</a>
+            <a href="#">My Page</a>
+            <a href="#">Logout</a>
+        </div>
+        </div>
          <!-- hamburger menu contents -->
-        <div class="mobile-div" id="mobile">
+        <nav class="mobile-div" id="mobile">
             <ul id="Mobile-menu">
               <li id="close-menu"><img src="./assets/vectorx.png" alt="close button"></li>
               <li> <a class="menuItems" id="menu1" href="#home">Home</a></li>
@@ -27,7 +35,7 @@
               <li> <a class="menuItems" id="menu3" href="#partners">Partners</a></li>
               <hr>
             </ul>
-          </div>
+        </nav>
         <!-- hamburger menu Icon and header page -->
         <div>
         <nav id="desktop-nav-bar">
@@ -67,43 +75,48 @@
             <div class="line-div">
             <hr class="goal-line my-0">
             </div>
-            <ul class="goal-list">
-                <li class="goal-items">
+            <div class="goal-list">
+                <!-- goal one -->
+                <article class="goal-items">
                     <i class="fa fa-solid fa-robot d-flex"></i>              
                  <h4 class="gf-size">Robo-Vending <br> Machines</h4>
                 <div class="goal-para">
                  <p class="mt-2 goalp">Providing Nutritional Food Through Robo - Vending Machines.</p>
                 </div>
-                </li>
-                <li class="goal-items">
+                </article>
+                <!-- goal two -->
+                <article class="goal-items">
                     <i class=" fa d-flex fa-solid fa-utensils"></i>
                  <h4 class="gf-size">Hygienic</h4>
                  <div class="goal-para">
                  <p class="mt-2 goalp">serving food, by calculating your body mass index to fulfill your nutritional requirement. </p>
                 </div>
-                </li>
-                <li class="goal-items">
+                </article>
+                <!-- goal three -->
+                <article class="goal-items">
                     <i class="fa d-flex fa-solid fa-globe"></i>
                  <h4 class="gf-size">Worldwide</h4>
                  <div class="goal-para">
                  <p class="mt-2 goalp">serving authentic food of your choice without compromising.</p>
                 </div>
-                </li>
-                <li class="goal-items">
+                </article>
+                <!-- goal four -->
+                <article class="goal-items">
                     <i class="fa d-flex fa-sharp fa-solid fa-people-group"></i>
                     <h4 class="gf-size">Food scarcity</h4>
                     <div class="goal-para">
                     <p class="mt-2 goalp">Tieing up with government to provide food to undernourished and poor people.</p>
                     </div>
-                </li>
-                <li class="goal-items">
+                </article>
+                <!-- goal five -->
+                <article class="goal-items">
                     <i class="fa d-flex fa-solid fa-heart-pulse"></i>
                     <h4 class="gf-size">Health Matters</h4>
                     <div class="goal-para">
                     <p class="mt-2 goalp">Healthy food that includes all the necessary elements like protein, vitamin, fats, and carbohydrates </p>
                     </div>
-                </li>
-            </ul>
+                </article>
+            </div>
         </div>
         <div class="join-div">
             <h3 class="join-txt h6">Join to know more</h3>
@@ -121,9 +134,8 @@
               <div class="f-speakers">              
               </div>
             </div>
+            <button id="more-btn" class="loadm-btn">MORE</button>
         </section>
-
-        <button id="more-btn" class="loadm-btn">MORE</button>
 
     <!-- footer for desktop  --> 
 
