@@ -378,7 +378,6 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
-
   .darknav {
     display: flex;
     background-color: #3e3e3e;
@@ -394,7 +393,7 @@ footer {
     margin-left: 16px;
     color: #fff;
   }
-  
+
   .menuBar {
     display: none;
   }
@@ -425,7 +424,7 @@ footer {
     color: #f38a7d;
   }
 
-  .head-para {   
+  .head-para {
     font-size: 35px;
   }
 
@@ -476,7 +475,6 @@ footer {
     margin-left: 20%;
     flex-direction: column;
     justify-content: center;
-
   }
 
   .nav {

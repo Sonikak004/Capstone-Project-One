@@ -312,7 +312,6 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
-
   .darknav {
     display: flex;
     background-color: #3e3e3e;
@@ -466,7 +465,7 @@ footer {
 
   .bottom {
     display: flex;
-    background-color: #2E2E2E;
+    background-color: #2e2e2e;
     justify-content: center;
     height: 130px;
   }
